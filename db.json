@@ -1,20 +1,14 @@
 {
-    "tasks": [
+    "jugadors": [
       {
         "id": 1,
-        "title": "Study json-server",
-        "completed": false
+        "nom": "Levi",
+        "cognoms": "Ackerman"
       },
       {
         "id": 2,
-        "title": "Complete the client-side project",
-        "completed": true
+        "nom": "Mikasa",
+        "cognoms": "Ackerman"
       }
-    ],
-    "users": [
-      {
-        "id": 1,
-        "name": "John Doe"
-      }]
-
+    ]
   }

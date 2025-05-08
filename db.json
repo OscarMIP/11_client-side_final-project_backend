@@ -1,14 +1,32 @@
 {
-    "jugadors": [
+    "books": [
       {
         "id": 1,
-        "nom": "Levi",
-        "cognoms": "Ackerman"
+        "tittle": "string",
+        "author": "string",
+        "year": 2004,
+        "status": "read"
       },
       {
         "id": 2,
-        "nom": "Mikasa",
-        "cognoms": "Ackerman"
+        "tittle": "string",
+        "author": "string",
+        "year": 2004,
+        "status": "read"
+      },
+      {
+        "id": 3,
+        "tittle": "string",
+        "author": "string",
+        "year": 2004,
+        "status": "read"
+      },
+      {
+        "id": 4,
+        "tittle": "string",
+        "author": "string",
+        "year": 2004,
+        "status": "read"
       }
     ]
   }

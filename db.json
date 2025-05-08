@@ -27,13 +27,6 @@
       "author": "string",
       "year": 2004,
       "status": "read"
-    },
-    {
-      "id": 5,
-      "tittle": "string",
-      "author": "string",
-      "year": 1980,
-      "status": "pending"
     }
   ]
 }

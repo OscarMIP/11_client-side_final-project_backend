@@ -2,30 +2,30 @@
   "books": [
     {
       "id": 1,
-      "tittle": "string",
-      "author": "string",
-      "year": 2004,
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "year": 2017,
       "status": "read"
     },
     {
       "id": 2,
-      "tittle": "string",
-      "author": "string",
-      "year": 2004,
-      "status": "read"
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "year": 2015,
+      "status": "pending"
     },
     {
       "id": 3,
-      "tittle": "string",
-      "author": "string",
-      "year": 2004,
-      "status": "read"
+      "tittle": "Fourth Wing",
+      "author": "Rebecca Yarros",
+      "year": 2023,
+      "status": "In Progress"
     },
     {
       "id": 4,
-      "tittle": "string",
-      "author": "string",
-      "year": 2004,
+      "title": "Book Lovers",
+      "author": "Emily Henry",
+      "year": 2022,
       "status": "read"
     }
   ]
